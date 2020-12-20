@@ -1,5 +1,5 @@
 # PyBer_Analysis
-Create a summary dataframe that will show ride sharing data by 3 cities type(Rural,Urban & Suburban). Refer to Refer to [PyBer_Challenge.ipynb](../main/PyBer_Challenge.ipynb).
+Create a summary dataframe that will show ride sharing data by 3 cities type(Rural,Urban & Suburban). Refer to [PyBer_Challenge.ipynb](../main/PyBer_Challenge.ipynb).
 
 ## Overview of Project
 ### City Type Summary
