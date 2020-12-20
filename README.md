@@ -11,7 +11,7 @@ Create a summary dataframe that will show ride sharing data by 3 cities type(Rur
  ![alt text](../main/Resources/Fig8.png "Total Fare by city vs. Month")
  
  ## Results Summary
- average fare per ride and driver are higher, thay's why less drivers. Base on this information, they can reduce ride-share prices to get more total rides.
+ Average fare per ride and driver are higher, that's why less drivers. Base on this information, they can reduce ride-share prices to get more total rides.
  
  
  
