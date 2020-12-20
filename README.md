@@ -3,7 +3,7 @@ Create a summary dataframe that will show ride sharing data by 3 cities type(Rur
 
 ## Overview of Project
 ### City Type Summary
- Base on thefollowing tabel, less drivers in city type(Rural) will have a higher average fare per ride and driver, as prices increase when supply is low.
+ Base on the following tabel, less drivers in city type(Rural) will have a higher average fare per ride and driver, as prices increase when supply is low.
  ![alt text](../main/Resources/City_Type.png "City_Type_Summary")
  
  ### Fivethirtyeight Chart
